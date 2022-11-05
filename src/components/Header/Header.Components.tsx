@@ -1,7 +1,7 @@
 import React from "react";
 
 const Header = () => (
-  <div className="w-screen h-auto bg-[#0075BE] flex flex-row justify-between items-center text-[#FFCC00] px-4 py-6 shadow-[0_10px_20px_rgba(0,0,0,0.5)]">
+  <div className="sticky top-0 z-50 h-auto bg-pokemon-secondaryBlue flex flex-row justify-between items-center text-pokemon-secondaryYellow px-4 py-6 shadow-[0_1.5rem_3rem_rgba(10,40,95,0.6)]">
     <h1 className="text-4xl uppercase">Logo</h1>
     <ul className="flex justify-between  basis-2/3">
       <li className="font-normal text-xl uppercase">option 1</li>
