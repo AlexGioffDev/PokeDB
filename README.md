@@ -1,6 +1,6 @@
 # POKEMON DB
 
-## Discover everything about your favorite Pokemon!! 
+## Discover everything about your favorites Pokemon!! 
 ##### (and more is coming)
 
 <br />
