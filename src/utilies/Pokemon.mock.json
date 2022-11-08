@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "ditto",
+        "sprites": {
+            "other": {
+                "official_artwork": {
+                    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png"
+                }
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "eevee",
+        "sprites": {
+            "other": {
+                "official_artwork": {
+                    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+                }
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "gengar",
+        "sprites": {
+            "other": {
+                "official_artwork": {
+                    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+                }
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "zoroark",
+        "sprites": {
+            "other": {
+                "official_artwork": {
+                    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png"
+                }
+            }
+        }
+    }
+]
+
