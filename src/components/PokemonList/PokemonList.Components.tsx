@@ -11,8 +11,8 @@ export const PokemonList = ({ pokemons }: { pokemons: IPokemonModel[] }) => {
       opacity: 1,
       scale: 1,
       transition: {
-        delayChildren: 0.2,
-        staggerChildren: 0.4,
+        delayChildren: 0.5,
+        staggerChildren: 0.6,
       },
     },
   };
